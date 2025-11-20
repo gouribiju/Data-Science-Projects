@@ -1,10 +1,10 @@
 # 🎓 Student Performance Analysis
 
 ## 📌 Overview
-  * This project analyzes student academic performance based on various influential factors such as study habits, attendance, parental involvement, and motivation levels. Using Machine Learning, we aim to predict student grades and identify key contributors to academic success.
+This project analyzes student academic performance based on various influential factors such as study habits, attendance, parental involvement, and motivation levels. Using Machine Learning, we aim to predict student grades and identify key contributors to academic success.
 
 ## 🔍 Problem Statement
-  * Understanding the factors that impact student performance is crucial for educators, policymakers, and parents. This project builds a predictive model to classify student grades and offer actionable insights for improving educational strategies.
+Understanding the factors that impact student performance is crucial for educators, policymakers, and parents. This project builds a predictive model to classify student grades and offer actionable insights for improving educational strategies.
 
 ## 📊 Data Preprocessing & Feature Engineering
   * Missing Values Handling:
