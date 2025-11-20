@@ -11,23 +11,24 @@ Fantasy cricket players rely on historical performance data to create their team
 *Removed columns with excessive missing values (method, target_overs, super_over).
    * Feature Engineering:
    * Label Encoding: Converted categorical variables (e.g., team1, team2, winner).
-*Outlier Removal: Used Interquartile Range (IQR) method to clean extreme values.
+    *Outlier Removal: Used Interquartile Range (IQR) method to clean extreme values.
 * Feature Selection:
    * Removed irrelevant columns (match_type, target_overs, super_over, method).
    * Selected important features using Random Forest feature importance ranking.
 
 ## 🏆 Machine Learning Models & Cross-Validation Performance
- * Model	Cross-Validation Accuracy (%)
- * Logistic Regression	21.24%
- * Decision Tree Classifier	46.25%
- * Random Forest Classifier	51.57%
- * Support Vector Classifier (SVC)	13.19%
- * CatBoost Classifier (Best Model) 🏆	70.62%
- * Gaussian Naïve Bayes	10.26%
- * K-Nearest Neighbors (KNN)	17.22%
+|  Model                           |  Cross-Validation Accuracy (%)  |
+|----------------------------------|---------------------------------|
+|Logistic Regression               | 21.53%
+|Decision Tree Classifier     | 42.65%
+|Random Forest Classifier          | 49.93%
+|Support Vector Classifier (SVC)  | 13.14%
+|**CatBoost Regression (Best Model) 🏆**  | 71.43%
+|Gaussian Naive Bayes Classifier         | 41.51%
 
- * Best Model: ✅ CatBoost Classifier with 70.62% accuracy (Before tuning)
- * Hyperparameter Tuning: 🎯 After tuning, accuracy improved to 75%
+* Best Model: ✅ Catboost Regressor with 71.43% accuracy
+* Hyperparameter Tuning: 🎯 Catboost improved after tuning
+
 
 ## 📂 Dataset Details
 * Dataset Name: IPL Complete Dataset (2008-2024)
