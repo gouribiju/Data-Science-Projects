@@ -31,7 +31,7 @@ K-Nearest Neighbors (KNN)          | 41.51%
 
 
 ## 📂 Dataset Details
-  * Dataset Name: Student Performance Factors Dataset
+  * Dataset Name: Student_performance_data _
   * Source: Kaggle Dataset
   * Columns: Hours_Studied, Attendance, Parental_Involvement, Motivation_Level, Exam_Score, etc.
 
