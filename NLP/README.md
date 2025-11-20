@@ -9,9 +9,9 @@ This repository contains Natural Language Processing (NLP) projects that focus o
 
 
 ## 🏗️ NLP Techniques Used
-✔ Text Preprocessing – Tokenization, Stopword Removal, Stemming
-✔ Feature Engineering – TF-IDF Vectorization
-✔ Machine Learning Models – Naïve Bayes, Logistic Regression, Support Vector Machines (SVM)
+- ✔ Text Preprocessing – Tokenization, Stopword Removal, Stemming
+- ✔ Feature Engineering – TF-IDF Vectorization
+- ✔ Machine Learning Models – Naïve Bayes, Logistic Regression, Support Vector Machines (SVM)
 
 
 ## 🛠 Technologies Used
