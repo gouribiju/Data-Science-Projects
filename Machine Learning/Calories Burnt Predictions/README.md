@@ -4,12 +4,12 @@
 ## 📌 Overview
 This project predicts the calories burned during various physical activities based on both body metrics (age, gender, height, weight) and exercise intensity factors (duration, heart rate, MET values).Using Machine Learning, the model identifies how different attributes influence calorie expenditure.
 
----
+
 ## 🔍 Problem Statement
 Accurately estimating calorie burn is essential for fitness tracking, personalized workout recommendations, and weight management.
 The goal of this project is to build a predictive ML model that estimates calories burned based on user characteristics and activity details.
 
----
+
 ## 📊 Data Preprocessing & Feature Engineering
 
  * Missing Values Handling:
@@ -22,7 +22,7 @@ The goal of this project is to build a predictive ML model that estimates calori
  * Outlier Removal:
       * Applied Interquartile Range (IQR) method to filter extreme values in Calories_Burnt, Heart_Rate, and Exercise_Duration.
 
----
+
 ## 🏆 Machine Learning Models & Cross-Validation Performance
 
 
@@ -38,7 +38,7 @@ K-Nearest Neighbors (KNN)          | 41.51%
 * Best Model: ✅ Catboost Regressor with 99.64% accuracy
 * Hyperparameter Tuning: 🎯 Catboost improved after tuning
 
----
+
 ## 📂 Dataset Details
  * Dataset Name: gym_members_exercise_tracking
  * Source: Kaggle Dataset
@@ -50,7 +50,7 @@ K-Nearest Neighbors (KNN)          | 41.51%
  * Mean Squared Error (MSE)
  * R² Score (Regression Performance)
 
----
+
 ## 🛠 Technologies Used
     🔹 Python 
     🔹 Pandas, NumPy – Data preprocessing
@@ -58,12 +58,13 @@ K-Nearest Neighbors (KNN)          | 41.51%
     🔹 Scikit-Learn, XGBoost – Machine Learning models
     🔹 Jupyter Notebook
 
----
+
 ## 🚀 How to Use
    * 1️⃣ Navigate to the Calories-Burnt-Prediction folder.
    * 2️⃣ Open the notebook.ipynb file in Jupyter Notebook.
    * 3️⃣ Run the notebook to train models and predict calories burned.
-----
+
+
 ## 📌 Fitness & Health Impact
    * 📈 This model helps fitness enthusiasts, trainers, and health professionals accurately track calorie burn based on user-specific data.
 
