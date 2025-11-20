@@ -21,9 +21,9 @@ Movie reviews influence audience decisions and box office performance. This proj
 
 |  Model                           |  Accuracy (%)  |
 |----------------------------------|---------------------------------|
-|Logistic Regression               | 98.02%
+|Logistic Regression               | 86.01%
 
-✅ Best Model: Logistic Regression (86%)
+✅ Best Model: Logistic Regression (86.01%)
 
 ## 📂 Dataset Details
 
