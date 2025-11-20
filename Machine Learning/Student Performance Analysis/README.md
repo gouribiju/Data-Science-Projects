@@ -17,16 +17,17 @@ Understanding the factors that impact student performance is crucial for educato
    
     
 ## 🏆 Machine Learning Models & Cross-Validation Performance
-Model	Cross-Validation Accuracy (%)
-Logistic Regression	82.27%
-Decision Tree Classifier	100%
-Random Forest Classifier	99.95%
-Support Vector Classifier (SVC)	94.02%
-CatBoost Classifier (Best Model) 🏆	100%
-Gaussian Naïve Bayes	96.66%
-K-Nearest Neighbors (KNN)	92.99%
-Best Model: ✅ CatBoost Classifier with 100% accuracy
-Hyperparameter Tuning: 🎯 CatBoost achieved 1.0 accuracy after tuning
+|  Model                           |  Cross-Validation R² Score (%)  |
+|----------------------------------|---------------------------------|
+|Linear Regression               | 98.02%
+|Decision Tree Regression     | 93.07%
+|Random Forest Regression          | 96.88%
+|Support Vector Regression (SVR)  | 0.46%
+|**CatBoost Regression (Best Model) 🏆**          | 99.64%
+K-Nearest Neighbors (KNN)          | 41.51%
+
+* Best Model: ✅ Catboost Regressor with 99.64% accuracy
+* Hyperparameter Tuning: 🎯 Catboost improved after tuning
 
 
 ## 📂 Dataset Details
