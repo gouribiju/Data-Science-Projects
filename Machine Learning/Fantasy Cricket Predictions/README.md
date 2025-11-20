@@ -1,11 +1,11 @@
 # 🏏 Fantasy Cricket Match Winner Prediction
-# 📌 Overview
+## 📌 Overview
 This project aims to predict the winning team in a fantasy cricket match using Machine Learning models trained on Indian Premier League (IPL) data from 2008 to 2024. The dataset includes key match statistics such as teams, toss decisions, venues, and winning results.
 
-# 🔍 Problem Statement
+## 🔍 Problem Statement
 Fantasy cricket players rely on historical performance data to create their teams. This project builds a predictive model that helps fantasy cricket users make better team selection decisions based on data-driven insights.
 
-# 📊 Data Preprocessing & Feature Engineering
+## 📊 Data Preprocessing & Feature Engineering
  * Missing Values Handling:
    * Filled missing city values for neutral venues (e.g., Dubai, Sharjah).
 *Removed columns with excessive missing values (method, target_overs, super_over).
@@ -16,7 +16,7 @@ Fantasy cricket players rely on historical performance data to create their team
    * Removed irrelevant columns (match_type, target_overs, super_over, method).
    * Selected important features using Random Forest feature importance ranking.
 
-# 🏆 Machine Learning Models & Cross-Validation Performance
+## 🏆 Machine Learning Models & Cross-Validation Performance
  * Model	Cross-Validation Accuracy (%)
  * Logistic Regression	21.24%
  * Decision Tree Classifier	46.25%
@@ -29,7 +29,7 @@ Fantasy cricket players rely on historical performance data to create their team
  * Best Model: ✅ CatBoost Classifier with 70.62% accuracy (Before tuning)
  * Hyperparameter Tuning: 🎯 After tuning, accuracy improved to 75%
 
-# 📂 Dataset Details
+## 📂 Dataset Details
 * Dataset Name: IPL Complete Dataset (2008-2024)
 * Source: Kaggle IPL Dataset
 * Columns: Season, Venue, Teams, Toss Decision, Winner, Player of the Match, Result, etc.
@@ -39,7 +39,7 @@ Fantasy cricket players rely on historical performance data to create their team
 * Feature Importance Analysis (Random Forest & CatBoost)
 * Cross-Validation Performance Check
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 🔹 Python
 
 🔹 Pandas, NumPy – Data preprocessing
@@ -50,7 +50,7 @@ Fantasy cricket players rely on historical performance data to create their team
 
 🔹 Jupyter Notebook
 
-# 🚀 How to Use
+## 🚀 How to Use
 1️⃣ Navigate to the Fantasy-Cricket-Predictions folder.
 
 2️⃣ Open the notebook.ipynb file in Jupyter Notebook.
