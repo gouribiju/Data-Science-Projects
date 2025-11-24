@@ -8,9 +8,9 @@ Spam emails account for a large portion of online threats, including phishing at
 
 ## 📊 Data Preprocessing & Feature Engineering
 ### Text Cleaning:
-✔ Removed subject line prefixes (e.g., "Subject: ")
-✔ Removed punctuation, numbers, and special characters
-✔ Applied stemming to reduce words to their root forms
+  ✔ Removed subject line prefixes (e.g., "Subject: ")
+  ✔ Removed punctuation, numbers, and special characters
+  ✔ Applied stemming to reduce words to their root forms
 
 ### Feature Engineering:
 ✔ TF-IDF Vectorization: Converted emails into numerical data
