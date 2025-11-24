@@ -1,4 +1,5 @@
 # 📺 Global YouTube Statistics Analysis
+# 🛒 Shopping Trends Analysis
 
 ## 📌 Overview
 This project analyzes global YouTube statistics, focusing on trends in views, likes, comments, and video categories. Using Pandas, Matplotlib, and Seaborn, we uncover patterns in content popularity and regional differences.
