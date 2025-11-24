@@ -1,4 +1,4 @@
-# 🏏 IPL Complete Dataset Analysis (2008-2024)
+# 🏏 IPL Complete Dataset Analysis
 
 ## 📌 Overview
 This project analyzes Indian Premier League (IPL) match data from 2008 to 2024, focusing on team performances, player statistics, and match trends. Using Pandas, Matplotlib, and Seaborn, we uncover insights into winning patterns, top-performing teams, and key players.
