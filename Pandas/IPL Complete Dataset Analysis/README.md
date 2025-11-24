@@ -10,7 +10,7 @@ This project analyzes Indian Premier League (IPL) match data from 2008 to 2024, 
   * ✅ Visualized trends in team performance over the years.
 
 ## 📂 Dataset
-  * Dataset Name: IPL Complete Dataset (2008-2024)
+  * Dataset Name: matches 
   * Source: Kaggle Dataset
   * Columns: Match ID, Team 1, Team 2, Venue, Winner, Toss Decision, Player of the Match, Runs, Wickets, etc.
 
@@ -21,7 +21,7 @@ This project analyzes Indian Premier League (IPL) match data from 2008 to 2024, 
   * 🔹 Jupyter Notebook
 
 ## 🚀 How to Use
-  * 1️⃣ Navigate to the IPL-Complete-Dataset-Analysis-2008-2024 folder.
+  * 1️⃣ Navigate to the IPL-Complete Dataset Analysis folder.
   * 2️⃣ Open the notebook.ipynb file in Jupyter Notebook.
   * 3️⃣ Run the code step by step to explore IPL match statistics and trends.
 
