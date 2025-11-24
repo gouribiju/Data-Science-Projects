@@ -3,8 +3,8 @@
 ## 📌 Overview
 This project explores shopping trends and consumer behavior using Pandas, Matplotlib, and Seaborn. The dataset includes information about customer purchases, product categories, spending habits, and seasonal trends. The goal is to analyze how different factors influence shopping patterns.
 
-📊 Key Insights
-✅ Identified peak shopping months and seasonal trends.
+## 📊 Key Insights
+  - ✅ Identified peak shopping months and seasonal trends.
 ✅ Analyzed spending behavior based on age groups and demographics.
 ✅ Determined top-selling product categories and revenue contributors.
 ✅ Visualized customer purchase frequency and average order value.
