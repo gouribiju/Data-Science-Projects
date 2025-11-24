@@ -27,7 +27,7 @@ Spam emails account for a large portion of online threats, including phishing at
 
 ## 📂 Dataset Details
 
-  * Dataset Name: Spam Email Dataset
+  * Dataset Name: Spam Email Classification
   * Source: Kaggle Spam Email Dataset
   * Columns: Email Text, Spam Label
     
