@@ -1,4 +1,4 @@
-# 💻 Mobile Price Analysis
+# 📱 Mobile Price Analysis
 
 ## 📌 Overview
 This project analyzes mobile prices based on various specifications. Using Pandas, Matplotlib, and Seaborn, we aim to uncover patterns and factors that influence mobile pricing.
