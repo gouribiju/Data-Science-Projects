@@ -4,7 +4,7 @@ This folder contains Data Analysis and Visualization projects using Pandas, Matp
 ## 📌 Projects Included:
 - 1️⃣ Shopping Trends Analysis – Understanding consumer purchasing patterns.
 - 2️⃣ Global YouTube Statistics Analysis – Analyzing worldwide YouTube trends.
-- 3️⃣ IPL Complete Dataset Analysis (2008-2024) – Examining IPL match data and performance trends.
+- 3️⃣ IPL Complete Dataset Analysis – Examining IPL match data and performance trends.
 - 4️⃣ Laptop Price Analysis – Exploring factors influencing laptop prices.
 - 5️⃣ Crop Yield Analysis – Studying agricultural trends and crop production insights.
 
