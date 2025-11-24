@@ -21,7 +21,7 @@ Spam emails account for a large portion of online threats, including phishing at
 |  Model                           |  Accuracy (%)  |
 |----------------------------------|---------------------------------|
 |Logistic Regression              | 98.60%
-|* Support Vector Machine (SVM)    |  98.69% 
+| Support Vector Machine (SVM)    |  98.69% 
 
 ✅ Best Model: SVM (98.7%)
 
