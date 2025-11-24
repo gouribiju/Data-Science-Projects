@@ -1,6 +1,6 @@
 # 📖 Natural Language Processing (NLP) Projects
 
-This repository contains Natural Language Processing (NLP) projects that focus on text classification, sentiment analysis, and spam detection using machine learning techniques. Each project applies advanced NLP methods to process, analyze, and extract insights from textual data.
+  This repository contains Natural Language Processing (NLP) projects that focus on text classification, sentiment analysis, and spam detection using machine learning techniques. Each project applies advanced NLP methods to process, analyze, and extract insights from textual data.
 
 
 ## 📌 Projects Included
