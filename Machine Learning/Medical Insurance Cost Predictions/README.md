@@ -28,7 +28,7 @@ Accurately predicting medical insurance costs is crucial for insurance companies
 |Linear Regression               | 74.35%
 |Decision Tree Regression     | 61.91%
 |Random Forest Regression          | 78.79%
-|Support Vector Regression (SVR)  | -9.36%
+|Support Vector Regression (SVR)  | 9.36%
 |**CatBoost Regression (Best Model) 🏆**          | 79.33%
 K-Nearest Neighbors (KNN)          | 10.84%
 
