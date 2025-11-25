@@ -1,15 +1,15 @@
-## Instagram Filter – Blemish Removal & Chroma Keying
+## 🤳Instagram Filter – Blemish Removal & Chroma Keying
 
 # 📌 Overview
 This project is an AI-based Computer Vision application that mimics an Instagram-style beauty filter. It performs blemish removal / skin smoothing and chroma keying (background replacement) on an input image using classical image-processing techniques. The objective is to build an image-processing pipeline using OpenCV that enhances facial features and replaces the background with a custom image.
 
-## 📌 Problem Statement
+## 🔍 Problem Statement
 Modern social media platforms offer filters that smooth skin, reduce blemishes, and change backgrounds.
 This project aims to replicate these effects offline using Python and OpenCV:
   1. Detect the face region and apply smoothing to reduce blemishes or skin imperfections.
   2. Identify a green/solid background using chroma keying and replace it with a custom background.
 
-## 📌 Data Preprocessing & Feature Engineering
+## 📊 Data Preprocessing & Feature Engineering
 ### 1. Face Detection
   * Using Haar Cascade / Dlib / MediaPipe to detect facial landmarks or bounding box.
 ### 2. Skin Smoothing / Blemish Removal
@@ -26,13 +26,13 @@ This project aims to replicate these effects offline using Python and OpenCV:
   * Combine smoothed face + replaced background to generate the final output.
 
 ## 📌 Model Used
-This project does not use deep learning.It uses classical Computer Vision methods:
+Uses classical Computer Vision methods:
   * Haar Cascade Classifier (Face Detection)
   * OpenCV Filters & Inpainting
   * HSV Masking for Chroma Keying
   * Bitwise operations for background replacement
 
-## 📌 Model Evaluation Metrics
+## 📊 Model Evaluation Metrics
   * Evaluation is done visually based on:
     * Accuracy of face detection
     * Smoothness of skin without distortion
@@ -45,14 +45,21 @@ This project does not use deep learning.It uses classical Computer Vision method
   * Chroma keying works well on uniform backgrounds (especially green).
   * Clean output with stable blending of foreground & new background
 
-## 📌 Technologies Used
+## 🛠 Technologies Used
   * Python 3
   * OpenCV
   * NumPy
   * Mediapipe / Dlib 
   * Jupyter Notebook / Google Colab
 
+## 🚀 How to Use
+  * 1️⃣ Navigate to the Instagram Filetr: Blemish Removal & Chroma Keying folder
+  * 2️⃣ Open the Instagram Filetr: Blemish Removal & Chroma Keying.ipynb file in Jupyter Notebook
+  * 3️⃣ Run the notebook to train the model
+
 ## 📌 Uses 
-  * Can be used to build beauty filters similar to Instagram/Snapchat.
-  * Useful for background removal in photography and videography.
-  * Helps understand fundamental image processing and computer vision concepts.
+  * 📈 Can be used to build beauty filters similar to Instagram/Snapchat.
+  * 📉 Useful for background removal in photography and videography.
+  * 📈 Helps understand fundamental image processing and computer vision concepts.
+  * 📉 Improves feedback analysis
+
