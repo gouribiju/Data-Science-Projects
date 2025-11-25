@@ -19,4 +19,5 @@
     - Load and clean the dataset
     - Generate frequent itemsets
     - Extract and visualize association rules
+
 🔗 The project includes a README.md with detailed methodology and references to the dataset used.
