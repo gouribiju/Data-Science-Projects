@@ -2,7 +2,7 @@
  This folder contains a retail analytics project that uses association rule mining to discover frequently purchased itemsets. It leverages the Apriori algorithm to find strong product associations from transactional data.
 
 ## 📌 Projects Included:
-  * 1️⃣ Market Basket Analysis on E-Commerce Sales – Identifying purchasing patterns in a bakery using Apriori and association rules.
+  * 1️⃣ Market Basket Analysis on E-Commerce Sales – Identifying purchasing patterns in a e-commerce using Apriori and association rules.
 
 ## 🛠 Technologies Used:
   * Python
