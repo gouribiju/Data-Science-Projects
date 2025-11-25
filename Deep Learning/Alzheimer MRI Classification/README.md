@@ -34,7 +34,7 @@ Early diagnosis of Alzheimer’s disease is crucial for treatment and patient ca
   * Epochs: 10
 
 ## 📊 Model Performance
-  * Best Validation Accuracy: 97.17%
+  * Best Validation Accuracy: 97.21%
   * Evaluation Metrics:
   * Precision: 97% (Macro Avg)
   * Recall: 97%
