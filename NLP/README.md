@@ -2,22 +2,17 @@
 
   This repository contains Natural Language Processing (NLP) projects that focus on text classification, sentiment analysis, and spam detection using machine learning techniques. Each project applies advanced NLP methods to process, analyze, and extract insights from textual data.
 
-
 ## 📌 Projects Included
   * 1️⃣ IMDB Sentiment Analysis – Classifying movie reviews as positive or negative using machine learning-based NLP.
-  * 2️⃣ Glaucoma Detection from Retinal Images – Image classification to detect glaucoma using transfer learning.
-  * 3️⃣
-
-
+  * 2️⃣ Spam Email Classification – Identifying spam vs. non-spam emails using text processing techniques.
+  * 3️⃣ Text Summarization using BART – Generate abstractive summaries from articles using the BART model with ROUGE evaluation metrics.
 
 ## 🏗️ NLP Techniques Used
 - ✔ Text Preprocessing – Tokenization, Stopword Removal, Stemming
 - ✔ Feature Engineering – TF-IDF Vectorization
 - ✔ Machine Learning Models – Naïve Bayes, Logistic Regression, Support Vector Machines (SVM)
 
-
 ## 🛠 Technologies Used
-
 * Python
 * NLTK, Scikit-Learn – NLP & ML libraries
 * TF-IDF Vectorization – Feature extraction method
