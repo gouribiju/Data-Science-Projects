@@ -4,7 +4,9 @@
 
 
 ## 📌 Projects Included
-1️⃣ IMDB Sentiment Analysis – Classifying movie reviews as positive or negative using machine learning-based NLP.
+  * 1️⃣ IMDB Sentiment Analysis – Classifying movie reviews as positive or negative using machine learning-based NLP.
+  * 2️⃣ Glaucoma Detection from Retinal Images – Image classification to detect glaucoma using transfer learning.
+  * 3️⃣
 
 
 
