@@ -18,14 +18,16 @@ Early diagnosis of Alzheimer’s disease is crucial for treatment and patient ca
   * Train-Test Split: 80% training, 20% testing (10,240 images total).
 
 ## 🏗️ Deep Learning Model (CNN Architecture)
-Layer Type	Filter/Units	Activation	Output Shape
-Conv2D	32 filters (3x3)	ReLU	(98, 98, 32)
-MaxPooling2D	2x2	-	(49, 49, 32)
-Conv2D	64 filters (3x3)	ReLU	(47, 47, 64)
-MaxPooling2D	2x2	-	(23, 23, 64)
-Flatten	-	-	(33856,)
-Dense	128 neurons	ReLU	(128,)
-Dense (Output Layer)	4 neurons	Softmax	(4,)
+
+|  Layer Type                    |  Filter/Units  |Activation       |Output Shape    |
+|--------------------------------|----------------|----------------|-----------------|
+| Conv2D	                        |32 filters (3x3)| ReLU	          |(98, 98, 32)     |
+| MaxPooling2D	                   | 2x2	         |-	             |(49, 49, 32)     |
+|Conv2D                          |	64 filters (3x3) | ReLU	        |(47, 47, 64)    |
+| MaxPooling2D	                   |2x2             |	-	           |(23, 23, 64)     |
+|  Flatten	                      | -              |	-	            |(33856,)        |
+| Dense	                         |128 neurons	    |ReLU	          |(128,)        |
+|Dense (Output Layer)	           |4 neurons	     |Softmax	       |(4,)         |
   * Optimizer: Adam
   * Loss Function: Sparse Categorical Crossentropy
   * Batch Size: 32
