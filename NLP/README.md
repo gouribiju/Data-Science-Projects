@@ -5,7 +5,7 @@
 ## 📌 Projects Included
   * 1️⃣ IMDB Sentiment Analysis – Classifying movie reviews as positive or negative using machine learning-based NLP.
   * 2️⃣ Spam Email Classification – Identifying spam vs. non-spam emails using text processing techniques.
-  * 3️⃣ Text Summarization using BART – Generate abstractive summaries from articles using the BART model with ROUGE evaluation metrics.
+  * 3️⃣ Text Summarization Using Transformer-Based Models – Generate abstractive summaries from articles using the BART model with ROUGE evaluation metrics.
 
 ## 🏗️ NLP Techniques Used
 - ✔ Text Preprocessing – Tokenization, Stopword Removal, Stemming
