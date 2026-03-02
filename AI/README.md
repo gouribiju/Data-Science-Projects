@@ -2,13 +2,7 @@
 This repository includes AI-powered projects that apply deep learning techniques to perform text classification, image classification, summarization, machine translation, and OCR tasks. These models utilize powerful architectures like BERT, BART, T5, CNNs, and modern preprocessing pipelines.
 
 ## 📌 Projects Included
-  *    Instagram Filter: Blemish Removal & Chroma Keying - To build an image-processing pipeline that mimics an Instagram-style filter.
-  * 1️⃣ AI Powered Cyberbullying Detection – Classify tweets as cyberbullying or not using GRU.
-  * 2️⃣ Glaucoma Detection from Retinal Images – Image classification to detect glaucoma using transfer learning.
-  * 3️⃣ Handwritten Image to Printed Text Conversion – Perform OCR on handwritten text using EasyOCR.
-  * 4️⃣ Sentiment Analysis using BERT – Predict positive/negative sentiment in reviews using pretrained BERT.
-  * 5️⃣ Text Summarization using BART – Generate abstractive summaries from articles using the BART model with ROUGE evaluation metrics.
-  * 6️⃣ Machine Translation using T5 – Translate English text into French using the T5 transformer model and evaluate using BLEU scores.
+  *   1️⃣ Instagram Filter: Blemish Removal & Chroma Keying - To build an image-processing pipeline that mimics an Instagram-style filter.
 
 ## 🧠 AI Techniques Used
   * ✔ Transfer Learning – VGG16 for image classification
