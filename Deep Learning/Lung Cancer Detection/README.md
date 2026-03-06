@@ -72,4 +72,4 @@ Train-Test Split: 80% training, 20% testing.
   * 4️⃣ Test the model using CT scan images for lung cancer classification.
 
 ## 📌 Medical Impact
-  * 📈 📈 This model can assist radiologists and oncologists in the early detection of lung cancer, leading to better treatment and improved patient outcomes.
+  * 📈 This model can assist radiologists and oncologists in the early detection of lung cancer, leading to better treatment and improved patient outcomes.
